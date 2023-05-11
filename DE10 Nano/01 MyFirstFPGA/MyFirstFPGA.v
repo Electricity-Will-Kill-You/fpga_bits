@@ -1,8 +1,8 @@
-/ create module
-	module blink (
+// create module
+module MyFirstFPGA (
 	input wire clk, // 50MHz input clock
 	output wire LED // LED ouput
-	);
+);
 
 // create a binary counter
 	reg [31:0] cnt; // 32-bit counter
