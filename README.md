@@ -1,1 +1,1 @@
-# fpga_bits
+# DE10-Lite
